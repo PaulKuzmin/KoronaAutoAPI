@@ -1,4 +1,5 @@
-# PHP API for https://korona-auto.com/
+# PHP API Wrapper for https://korona-auto.com/
+
 Full description: https://korona-auto.com/api-info/
 
 ## Install
