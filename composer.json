@@ -1,5 +1,5 @@
 {
-    "name": "pavelkuzmin/KoronaAutoAPI",
+    "name": "pavelkuzmin/korona-auto-api",
     "type": "library",
     "description": "Wrapper for API korona-auto.com",
     "version": "1.0",
@@ -23,5 +23,11 @@
         "psr-4": {
             "KoronaAuto\\": "src/"
         }
-    }    
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/PaulKuzmin/KoronaAutoAPI"
+        }
+    ]
 }
