@@ -1,0 +1,27 @@
+{
+    "name": "pavelkuzmin/KoronaAutoAPI",
+    "type": "library",
+    "description": "Wrapper for API korona-auto.com",
+    "version": "1.0",
+    "time": "2017-11-16",
+    "keywords": [
+        "api",
+        "korona-auto.com"
+    ],    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Kuzmin",
+            "email": "pavel@kuzmin.online",
+            "homepage": "http://kuzmin.online/"
+        }
+    ],
+    "require": {
+        "php": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "KoronaAuto\\": "src/"
+        }
+    }    
+}
